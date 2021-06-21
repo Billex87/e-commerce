@@ -161,7 +161,3 @@ const ProfileScreen = ({ location, history }) => {
 };
 
 export default ProfileScreen;
-© 2021 GitHub, Inc.
-  Terms;
-Privacy;
-Security;
