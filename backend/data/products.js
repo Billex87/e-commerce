@@ -3,7 +3,7 @@ const products = [
     name: 'Razer Seiren Microphone',
     image: '/images/microphone.jpg',
     description:
-      'Big sounds can come in small packages. Meet the Razer Seiren Mini—an ultra-compact condenser mic thats the perfect fit for professional grade-audio with any streaming or video call setup.',
+      'Big sound can come in small packages. Meet the Razer Seiren Mini—an ultra-compact condenser mic thats the perfect fit for professional grade-audio with any streaming or video call setup.',
     brand: 'Razer',
     category: 'Electronics',
     price: 89.99,
